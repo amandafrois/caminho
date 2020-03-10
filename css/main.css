@@ -1770,7 +1770,8 @@ footer .copyright {
 	text-align: right;
 	position: relative;
 	padding-top: 0rem;
-	margin-top: 0rem;}
+	margin-top: 0rem;
+	margin-right:2rem}
 
 footer .copyright::before {
 	content: "";
